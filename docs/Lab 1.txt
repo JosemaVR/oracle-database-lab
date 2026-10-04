@@ -1,0 +1,6 @@
+-¿a dónde apunta el HEAD? ¿En qué orden aparecen los commits? Responde:
+HEAD apunta al último commit de la rama feature/customer-search.
+La salida de git log está ordenada del commit más reciente al más antiguo.
+
+-Comenta lo que ha pasado con git status.
+"git status -c" intenta añadir "-c" como una funcionalidad dentro de la orden "git status", pero esa opción no existe para este comando.
